@@ -67,6 +67,8 @@ Revenue, YearMonth, Trend Score
 
 ![Cleaned Data](images/1_cleaned_data.png)
 ![Google Trends Merge](images/2_power_query_merge.png)
+![Historical Sales](images/3_monthly_revenue-historicalsales.png)
+![Forecast Sales](images\8_monthly_revenue_and_next_quarter_forecast.png)
 
 ## 2. Dashboard
 
